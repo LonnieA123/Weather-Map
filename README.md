@@ -1,0 +1,2 @@
+# Weather-Map
+ A Weather Map using Javascript, HTML and CSS, along with two frameworks bootstrap and jquery. This project is pulling data from two separate API’s to create a weather map based on the current location of the user. This weather map will display the location on a map along with the weather for the specified location. There is also a functional Search bar that allows you to find the specified location based on the search.
